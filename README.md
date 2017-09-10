@@ -1,10 +1,11 @@
 # cljagent
 
-A Clojure library designed to ... well, that part is up to you.
+A Java Agent in clojure
 
 ## Usage
 
-FIXME
+        lein jar
+        lein run
 
 ## License
 
